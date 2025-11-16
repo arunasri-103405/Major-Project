@@ -1,0 +1,87 @@
+
+407890	,Mihini	,Agent	,benjamin(at)eclipse	  ,           NEW	  ,              ---	,[doc] Create an index.html page for http://download.eclipse.org/mihini/	,2013-07-29
+408597	,Mihini	,Agent	,rperier@sierrawireless.com,	NEW,	---	,Study feasability of using gerrit in the mihini commit process	,2013-07-30
+322861	,JSDT	,Debug,	MichaelRennie@ca.ibm.com	,ASSI,	---	,Rhino StackFame should do a better job of serializing properties	,2011-05-25
+456410,	Sirius	,Core,	esteban.dugueperoux@obeo.fr	,ASSI,	---,	Define and use alternate APIs for high-level model queries that can be extended/customized when appropriate	,2015-06-23
+343311	,Mylyn Ta,	Framewor,	benjamin.muskalla@tasktop.com,	NEW	,---	,TaskSelectionDialog causes high load	,2012-01-09
+226987	,z_Archiv	,Hibachi,	hibachi.ui-inbox@eclipse.org	,NEW,	---,	Cannot create a new package which is a child of an existing package	,2011-01-21
+377200,	EDT,	MOFModel,	edt.mofmodel-inbox@eclipse.org,	NEW	,---	,System part types need to be restrutured to correctly reflect which types are value and which are reference	,2013-01-03
+477134	,ECP,	EMF Form	,eneufeld@eclipsesource.com	,NEW	,---,	UI freeze in DomainModelReferenceControlSWTRenderer$SelectionAdapterExtension.widgetSelected - Field.acquireFieldAccessor (HIDDEN),	2015-09-11
+289193,	ATF,	UI	,jacek.pospychala@gmail.com	,NEW,	---,	Simplify launching story	,2010-06-02
+318967,	PDT	,Code Fol	,php.core-inbox@eclipse.org,	NEW,	---,	code foldinga wired thing when edit file.	,2011-05-16
+408666,	Mihini	,Agent	,mihini-inbox@eclipse.org,	UNCO,	---	,[Wiki] Create a tutorial to discover Mihini	,2013-07-30
+90883,	z_Archiv	,VE	,ve-inbox@eclipse.org,	NEW,	---	,Add a way to enable/disable widget sets from within VE	,2011-06-13
+473210,	ECP	,EMF Form,	eneufeld@eclipsesource.com	,NEW	,---,	[IDE] Expand container when new child was added,	2015-09-08
+197924	,Mylyn	,Tasks	,mylyn-triaged@eclipse.org	,NEW,	---,	[team] provide a way to get from a task to a list of modified resources and CVS history entries,	2012-04-06
+300500	,Communit	,EclipseC	,leftylynn@gmail.com,	REOP	,---	,Ian(s) is/are thirsty at EclipseCon	,2015-03-05
+432261	,Scada,	Drivers	,scada-inbox@eclipse.org	,NEW	,---,	make all "classic" drivers also configurable within the master server,	2015-07-06
+338939	,EMFT,	EEF	,emft.eef-inbox@eclipse.org,	NEW,	---	,Generate EEF Architecture action should create the directory if it does not exist	,2011-06-27
+338942	,EMFT,	EEF	,emft.eef-inbox@eclipse.org	,NEW,	---,	Generate EEF Architecture action should add the eef runtime dependency if it is not already added	,2011-03-04
+395739	,EclipseL	,JPA	,eclipselink.orm-inbox@eclip...,	NEW	,---,	ManyToOne and JoinTable. Problem: isForeignKeyRelationship() check is wrong,	2013-02-12
+400464,	EclipseL,	JPA,	eclipselink.orm-inbox@eclip...	,NEW,---	,NPE on Polimorphic query with left join in JOINED inheritance scenario,	2013-04-03
+404376	,EclipseL	,Foundati	,eclipselink.foundation-inbo...,	NEW,	---,	Delete Operation fails with ClassCastException when HistoryPolicy is enabled	,2013-04-03
+361529	,EclipseL,	JPA	,eclipselink.orm-inbox@eclip...	,NEW,	---	,OrderedLists have null inserted when classes are static woven and caching is on,	2011-11-09
+461258	,Jubula	,Tools	,jubula.tools-inbox@eclipse.org,	NEW	,---	,After switching to Luna SR 2 BIRT reports do no longer work: Caused by: java.lang.ClassCastException: org.eclipse.birt.report.engine.content.impl.TableContent cannot be cast to java.lang.Comparable,	2015-08-21
+317356,PDT	,General,	php.ui-inbox@eclipse.org	,NEW,	---	,IDE hangs while building a project using RSE linked folders (via SSH)	,2010-07-28
+129655,	z_Archiv	,Laszlo,	laszlo.ui-inbox@eclipse.org,	NEW	,---	,Publishing to server should prompt before overwriting a directory	,2006-03-16
+324941,	EclipseL,	JPA	,eclipselink.orm-inbox@eclip...,	NEW	,---	,Cascade Fails: OneToMany Bidirectional CascadeType.ALL: Detached children not persisted in attached or not yet persisted parent	,2012-03-15
+390471,	EclipseL,	JPA	,eclipselink.orm-inbox@eclip...	,NEW,	---	,NoSQL/MongoDB using @ManyToOne leads to ClassCastException while getting CriteriaBuilder	,2014-12-11
+346921	,Orbit	,bundles	,oliver.wolf@securiosity.de	,NEW,	---	,org.apache.neethi does not use qualifier in versioning	,2011-05-24
+276398,	MylynTa,	Bugzilla	,mylyn-triaged@eclipse.org	,NEW	,---	,ensure team planning fields are highlighted when changes occur	,2011-09-28
+321467,	MylynCo	,C/C++	,mylyn-inbox@eclipse.org	,NEW	,---	,[context] sometimesswitching to another file goes back to the old file immediately	,2011-08-11
+247863,	Mylyn,	Tasks	,mylyn-triaged@eclipse.org	,NEW	,---	,[team] deadlock while creating a class	,2009-09-10
+391755,	EclipseL,	JPA	,eclipselink.orm-inbox@eclip...,	NEW,	---	,EntityManager.lock() executes more selects than in 2.1.1 (and ignores QueryHints.REFRESH_CASCADE),	2013-02-08
+323023,	EclipseL	,Foundati	,eclipselink.foundation-inbo...,	NEW	,---	,Enabling history support (HistoryPolicy) results in wrong assignment of database generated primary keys since version 2.0.1 inclusive	,2014-10-31
+378908	,EclipseL,	JPA	,eclipselink.orm-inbox@eclip...,	NEW,	---,	When a flush method is issued right after a remove method in a one-to-many relationship causes a SQLIntegrityConstraintViolationException.	,2012-06-08
+371743,	EclipseL	,JPA	,eclipselink.orm-inbox@eclip...,	NEW,	---,	Fetching Lazy-Fields (Basic-Mapping) causes inconsistent database reload on the whole entity	,2015-08-31
+341130,	AspectJ,	Compiler	,aspectj-inbox@eclipse.org,	NEW	,---	,Inadvertent change in matching (inherited annotations)	,2013-06-24
+250559,	PDT	,Code Ass	,spektom@gmail.com	,NEW	,---,	[type hierarchey] drag and drop of type is not enabled ( but it is stated in the view to D&D)	,2010-03-25
+362946,	EclipseL	,JPA	,eclipselink.orm-inbox@eclip...,	NEW,	---	,History should use the SAME timestamp for all objects in a single transaction	,2013-03-26
+71188,	z_Archiv,	VE	,djo@coconut-palm-software.com,	NEW,	---,	Composite.children and Table.tableColumns property errors not handled correctly.	,2011-06-13
+329596,	EclipseL,	Foundati	,eclipselink.foundation-inbo...	,NEW	,---,	ReportQuery resultset caching generates internal illegal argument exception	,2010-11-18
+257483,	PDT	,Outline	,ganoro@gmail.com	,NEW	,---	,Outline context menu is missing entries like Show type hierarchy	,2010-03-14
+383414,	EclipseL	,JPA	,eclipselink.orm-inbox@eclip...	,NEW,	---	,Bulk update does not work on entities from hierarchy	,2013-01-24
+331975,	Mylyn Ta,	Framewor,	mylyn-triaged@eclipse.org,	NEW	,---	,Local task is saved without prompt after switching to the context tab	,2015-07-10
+241847,	AspectJ,	IDE	,aclement@pivotal.io	,ASSI	,---	,[plan] [annotation] param annotation matching pointcut does not always match	,2013-06-24
+305020,	EclipseL	,Foundati	,eclipselink.foundation-inbo...	,NEW	,---	,FetchGroup fetching of relationships must return entity with relationship populated	,2011-12-28
+374802,	Equinox,	p2	,equinox.p2-inbox@eclipse.org	,NEW	,---	,Launching Eclipse application fails with a NoSuchMethodError.	,2012-12-11
+332741,	PDT	,Debugger,	php.debug-inbox@eclipse.org	,REOP,	---,	Step into: External phar archives	,2011-08-02
+243224,	AspectJ	,Compiler	,aspectj-inbox@eclipse.org	,NEW,	---	,[plan] [matching] Incorrect ambiguity error reported for complex pointcut,2013-06-24
+395588,	EclipseL	,JPA	,eclipselink.orm-inbox@eclip...,	NEW,	---,	NPE is thrown when removing elements of Simple Collection of Integers and flushing in between	,2013-02-12
+344721,	EclipseL	,JPA	,eclipselink.orm-inbox@eclip...	,NEW,	---,       Class hierarchy queries using  select dtype do not always bind the alias	,2011-05-20
+208185	,Target ,MTerminal,	tm.core-inbox@eclipse.org	,ASSI,	---	,[terminal] [serial] terminal can hang the UI when text is entered while the backend side is not reading characters	,2015-05-22
+356885	,EclipseL	,JPA	,eclipselink.orm-inbox@eclip...	,NEW,	---	,Even if Bug 356296 is fixed there are problems with the QueryHints.BATCH hint - the root expression on a path to a batch query is also changed to a batch query	,2013-08-29
+291453	,EclipseL	,JPA	,eclipselink.orm-inbox@eclip...	,NEW,	---	,java.util.ConcurrentModificationException | While performing UnitOfWork.setShouldPerformDeletesFirst(true)	,2014-12-12
+375014	,EclipseL	,JPA	,eclipselink.orm-inbox@eclip...	,NEW,	---	,EclipseLink cannot properly handle @OrderColumn mapped columns that also have a non-deferrable unique constraint on them while updating (DBMS constraint exception)	,2013-06-12
+244296	,Mylyn	,Java	,shawn.minto@tasktop.com	,NEW	,---,	[folding] Fold uninteresting elements feature unfolds everything after task-switch	,2015-04-29
+357402	,EclipseL	,JPA	,eclipselink.orm-inbox@eclip...	,NEW	,---	,multi-tenant support does not work with caching or ids	,2014-12-11
+440674	,Mylyn, Bu	Hudson C	,mylyn-triaged@eclipse.org	,NEW	,---	,error dialog when opening build history due to duplicate refresh operation	,2015-09-19
+379147	,PTP	,Photran, jeffreyoverbey@acm.org,	ASSI	,---	,Third-party documentation (and code templates) should not require analysis/refactoring enabled	,2014-08-12
+180018	,Dali JPA,	JPA	,neil.hauge@oracle.com,	NEW	,---	,[Validation] validation errors for access type not matching	,2011-07-01
+347158	,EclipseL,	JPA	,eclipselink.orm-inbox@eclip...	,NEW	,---	,Cascade persist on child with joined table fails	,2011-06-09
+309828	,EclipseL,	JPA	,eclipselink.orm-inbox@eclip...	,NEW	,---	,jpa 2.0 cache query hints issues	,2013-01-14
+234045	,Target ,M	RSE	,dmcknigh@ca.ibm.com	,REOP	,---	,[ftp] Errors while changing file permissions are not displayed to the user	,2012-11-19
+406493	,EclipseL	,Foundati	,eclipselink.foundation-inbo...	,NEW	,---,	BatchFetchType.IN object building fails when the relationship being populated has JOIN read relationships with filtered duplicates.	,2013-05-09
+340089	,EclipseL	,Foundati	,eclipselink.foundation-inbo...	,NEW	,---	,ReportQuery which selects single Boolean entity attribute does not return rows for true result,	2014-05-23
+402394	,EclipseL	,JPA	,eclipselink.orm-inbox@eclip...	,NEW	,---	,JPA-RS: Dont generate _relationships property in JSON when empty	,2013-04-03
+475154	,Platform	,UI	,platform-ui-triaged@eclipse...,	NEW	,---	,NullPointerException in PartServiceImpl.switchPerspective() when switching perspective while active view placed inside editors area	,2015-08-19
+392624	,EclipseL	,JPA	,eclipselink.orm-inbox@eclip...	,NEW	,---	,Using @ClassExtractor with table inheritance strategy -> InheritanceType.JOINED creates wrong sql when refreshing a class,	2012-11-16
+236136	,Target ,M	,RSE	ddykstal.eclipse@gmail.com	,NEW	,---	,NPE in PFFileSystemAnchor.delete while running Unittests on Linux	,2011-05-31
+209090	,Target ,M	,RSE	tm.rse-inbox@eclipse.org	,ASSI	,---	,[ssh] RSE should gracefully deal with SSH Servers which only support a single channel per session,	2012-11-19
+265895	,Platform	,UI	,platform-ui-triaged@eclipse...	,NEW	,---	,[EditorMgmt] NavigationHistory does not restore completely,	2010-06-03
+82409	,WTP ,Sourwst.xsd	,wst.xsd-triaged@eclipse.org,	NEW	,---	,[editor] Graphical schema editor views dont update when external dependencies change	,2010-09-16
+392633	,EclipseL	,Foundati	,eclipselink.foundation-inbo...	,NEW	,---,	Performance regression from 2.1.1 to 2.4 additional select for relationship after find refreshlock	,2014-06-23
+340130	,EclipseL	,JPA	,eclipselink.orm-inbox@eclip...	,NEW,	---	,Embeddable with ManyToMany relationship in query	,2011-04-06
+218881	,Platform	,Debug	,platform-debug-inbox@eclips...	,ASSI,	---	,[launch][menu] Launch using shortcut key Alt+Shift+X doesnt work until launch actions are loaded	,2015-08-14
+347539	,EclipseL	,JPA	,eclipselink.orm-inbox@eclip...	,NEW,	---	,HistoryPolicy Problem with PK GenerationType.IDENTITY on PostgreSQL	,2015-03-09
+406951	,EclipseL	,Foundati	,eclipselink.foundation-inbo...	,NEW,	---,	Bulk delete on cached entity with relationship to non-cached entity does not invalidate cached entity,	2013-05-24
+351481	,EclipseL	,JPA	,eclipselink.orm-inbox@eclip...,	NEW	,---,	QueryHints.CACHE_USAGE=CheckCacheThenDatabase changes return value/class of a SELECT/JOIN	,2011-07-15
+102123	,CDT	,cdt-core	,cdt-core-inbox@eclipse.org	,NEW,	---	,Cancelling C/C++ Rename refactoring brings the machine to its knees	,2007-08-21
+278235	,WTP ,Sour	,wst.xsl	d_a_carver@yahoo.com,	NEW	,---	,[debug] Debugging and Launching should not allow Xalan to process XSLT 2.0	,2011-04-28
+393382	,Mylyn ,Co	Framewor,	mylyn-triaged@eclipse.org,	NEW	,---,	in context preview page landmark highlighting is based on the active task	,2012-11-01
+248361	,EclipseL	,JPA	,eclipselink.orm-inbox@eclip...	,NEW	,---,	JPA: Adding an entity to the collection of a OneToMany unidirectional relationship results in a Foreign Key Constraint under certain circumstances	,2010-09-10
+475852	,Orion	,Client	,cwindatt@ca.ibm.com	,NEW	,---,	[Quickfix] Allow quick fixes to be applied to all matching problems in a file	,2015-08-26
+327703	,Mylyn	,UI	,mylyn-triaged@eclipse.org	,NEW	,---,	deleting a bugzilla query and its unmatched folder while doing initial sync puts all tasks into the uncategorized bin	,2010-10-26
+329055	,EclipseL	,Foundati	,eclipselink.foundation-inbo...	,NEW	,---,	Deleted entity's private owned child entities does not get preRemove event	,2011-01-05
+264406	,EclipseL	,JPA	,eclipselink.orm-inbox@eclip...,	NEW,	---,	SQL Emitted by EclipseLink is searching for an object with a null primary key	,2010-11-26
+178445	,Platform	,User Ass,	platform-ua-inbox@eclipse.org	,NEW	,---,	[Help] Index tab of help view freezes the workbench while the index is loading	,2007-04-09
